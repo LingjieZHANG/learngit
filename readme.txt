@@ -1,1 +1,2 @@
-this is a line\nand this is another
+this is a line
+and this is another
